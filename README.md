@@ -20,9 +20,9 @@ Make sure you have the following installed before running the application:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Sxamoecode/TODO_APP.git
 2. Navigate to the project directory:
-cd todo-app
+cd TODO_APP
 3. Install the dependencies:
 npm install
 4. Create a  `.env`  file in the project root directory and provide the necessary environment variables:
